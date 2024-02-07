@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I'm in the archery team at UIC and I love python 💓
 - 💻 Languages: Python, C++, C, Swift, React
 - 💬 Ask me about past internships!
+- 📕 About Me: I'm a first-gen CS student at UIC, I'm Chicago born and raised
 
 <!--
 - 🔭 I’m currently working on ...
