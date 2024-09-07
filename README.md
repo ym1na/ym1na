@@ -5,7 +5,7 @@
 - 💬 Ask me about past internships!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm in the archery team at UIC and I love python 💓
-- 💻 Languages: Python, C++, C, Swift, React
+- 💻 Languages: Python, C++, Java, C, Swift, React
 - 💬 Ask me about past internships!
 <!--
 - 🔭 I’m currently working on ...
