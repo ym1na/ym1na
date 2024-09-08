@@ -7,7 +7,6 @@ I enjoy going through the full development process (including architecture and m
 - 📰 I'm also working on a Technology News Insight Engine w/Accenture (AI project hehehe😌)
 - 🏢 Previous SWE intern @ JPMC, Charles Schwab, and PEAK6
 - 💬 Data visualization is cool!!
-- 🦖🦕🦖🦕🦖🦕
 
   
 <!-- Languages with Icons -->
