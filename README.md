@@ -38,24 +38,31 @@ I enjoy going through the full development process (including architecture and m
 
 ## 🖥️ ym1na Code Samples
 Here’s a sneak peek at some of my daily actions:
-```python
-# Sleeping Code💤
-def mimir():
+<details>
+  <summary>Sleeping Code💤</summary>
+  
+  ```python
+  def mimir():
     return "MIMIMIMIMI 🛏️"
+  print(mimir())
+  ```
+</details>
+<details> 
+  <summary>Eating Code 🍴</summary>
+  
+  ```python
+    def chomp():
+        return "🦖🍽️"
+    print(chomp())
+  ```
+</details>
+<details>
+  <summary>Not adding projects to github Code 🫠</summary>
+  
+  ```python
+  def local():
+      return "Still local....🙃"
+  
+  print(local())
+  ```
 
-print(mimir())
-```
-```python
-# Eating Code 🍴
-def chomp():
-    return "🦖🍽️"
-
-print(chomp())
-```
-```python
-# Not adding projects to github Code 🫠
-def local():
-    return "Still local....🙃"
-
-print(local())
-```
