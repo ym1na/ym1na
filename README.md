@@ -4,7 +4,7 @@ I'm a junior at the University of Illinois Chicago studying Computer Science🧑
 I enjoy going through the full development process (including architecture and modeling👀).
 
 - 📱 I’m currently working on a Swift app with [@LeafProject](https://github.com/Leaf-Project-2024), learning more about firebase and mobile development (p.s. Also React Native app dev)
-- 📰 I'm also working on a Technology News Insight Engine w/Accenture (AI project hehehe😌)
+- 📰 I'm also working on a Technology News Insight Engine w/Accenture (AI project😌)
 - 🏢 Previous SWE intern @ JPMC, Charles Schwab, and PEAK6
 - 💬 Data visualization is cool!!
 
